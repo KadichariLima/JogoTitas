@@ -1,0 +1,11 @@
+5 9
+..$..#..#
+.#.....$.
+.L...#..#
+$...#....
+.#..$.$.@
+Jump J1 FFFEFFEFFDFFF
+Constructor C1 EFFEEFFFFEFFF
+Destructor D1 FFFDFFFDFFFDFFF
+Jump J2 FFFDFFFDFFFDFFF
+0
